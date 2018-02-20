@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Servlets:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="go.war">
+      <element id="artifact" artifact-name="Servlets:war exploded" />
+    </root>
+  </artifact>
+</component>
